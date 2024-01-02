@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "scanner_class",
+            "request": "launch",
+            "mainClass": "Java.scanner_class",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "take_input",
+            "request": "launch",
+            "mainClass": "Java.take_input",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "aa",
+            "request": "launch",
+            "mainClass": "Java.aa",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "wrapper",
+            "request": "launch",
+            "mainClass": "Java.wrapper",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "local",
+            "request": "launch",
+            "mainClass": "Java.Variables.local",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Java.Variables.Static",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "shift",
+            "request": "launch",
+            "mainClass": "Java.Operators.shift",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "bitwise",
+            "request": "launch",
+            "mainClass": "Java.Operators.bitwise",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "logical",
+            "request": "launch",
+            "mainClass": "Java.Operators.logical",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "relational",
+            "request": "launch",
+            "mainClass": "Java.Operators.relational",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "arithmetic",
+            "request": "launch",
+            "mainClass": "Java.Operators.arithmetic",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
+            "name": "datatype",
+            "request": "launch",
+            "mainClass": "Java.datatype",
+            "projectName": "the_coder_98f4d73c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
